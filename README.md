@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom : Correro
+- prénom : Olivier
+- URL Netlify : https://zesty-cucurucho-675ae4.netlify.app
 
 # Travail
 
